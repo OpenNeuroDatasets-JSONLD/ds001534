@@ -1,0 +1,16 @@
+1.0.3	2018-10-10
+
+	- Renamed data dictionary to participants.json
+
+1.0.2	2018-10-10
+
+	- Uploaded data_dictionary.json file
+
+1.0.1	2018-10-10
+
+	- Updated dataset_description.json file and added a data_dictionary.tsv
+
+
+1.0.0	2018-10-08
+
+	- Initial snapshot
