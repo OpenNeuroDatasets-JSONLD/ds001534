@@ -15,7 +15,7 @@
 "Description": "Participant's reported gender.",
 "Levels": {
 "F": "female",
-"M": "male",
+"M": "male",}
 },
 
 "height_in": {
@@ -47,7 +47,7 @@
 "Description": "Discrete categorization of participant's dieting status (non-dieter or dieter) as determined by their Restraint Scale Score (> 14 as Dieters, <= 14 Non-dieters).",
 "Levels": {
 "Non-dieter": "Non-dieter",
-"Dieter": "Dieter",}
+"Dieter": "Dieter"}
 },
 
 "restraint_scale": {
@@ -63,7 +63,4 @@
 "weight_fluctuation": {
 "LongName": "Weight Fluctuation Subscale Score",
 "Description": "Total score for the Weight Fluctuation subscale of the Dietary Restraint Scale."
-},
-}
-
-
+}}
