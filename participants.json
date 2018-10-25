@@ -15,7 +15,7 @@
 "Description": "Participant's reported gender.",
 "Levels": {
 "F": "female",
-"M": "male",}
+"M": "male"}
 },
 
 "height_in": {
