@@ -24,9 +24,15 @@
 "Description": "The name of the stimulus (or image number) presented in the trial. Because the same images occurred in both experimental conditions or trial types, this identifier can be used for item analyes."
 },
 
-"calories": {
-"LongName": "Kilocalories of food in image",
-"Description": "The number of kilocalories estimated for the food presented in the image.",
+"presented_calories": {
+"LongName": "Presented kilocalories of food in image",
+"Description": "The number of kilocalories presented to participants alongside the food image during the calorie condition. These calories were either accuate, 15% higher, or 15% lower than the actual calories and rounded to nearest tens place.",
+"Units": "kilocalories"
+},
+
+"actual_calories": {
+"LongName": "Actual kilocalories of food in image",
+"Description": "The actual number of kilocalories for the food presented in the image.",
 "Units": "kilocalories"
 },
 
